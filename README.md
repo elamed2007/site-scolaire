@@ -1,7 +1,7 @@
 # Site OFPPT
 
 ## Live Demo
-Visit Website: https://elamed2007.github.io/site-notes/
+Visit Website: https://elamed2007.github.io/site-scolaire/
 
 ## Technologies
 - HTML5
